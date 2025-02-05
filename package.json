@@ -1,5 +1,18 @@
 {
+  "name": "automation-portfolio-cypress",
+  "version": "1.0.0",
+  "description": "Cypress automation Framework",
+  "homepage": "https://github.com/noelly/Automation-Portfolio-Cypress#readme",
+  "bugs": {
+    "url": "https://github.com/noelly/Automation-Portfolio-Cypress/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noelly/Automation-Portfolio-Cypress.git"
+  },
+  "license": "ISC",
+  "author": "Noel Ly",
   "devDependencies": {
-    "cypress": "^13.17.0"
+    "cypress": "^14.0.2"
   }
 }
